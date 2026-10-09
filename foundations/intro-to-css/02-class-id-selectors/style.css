@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.paragraphs {
+    background-color: #f5654c;
+    font-family: "Verdana, DejaVu Sans", sans-serif;
+}
+
+.special {
+    font-size: 24px;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #50d38b;
+    font-size: 24px;
+    font-weight: bold;
+}
